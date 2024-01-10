@@ -1,0 +1,5 @@
+This is first feature of our application
+
+This is the bug fix in dev branch
+
+This is feature added from the dev1 branch.
